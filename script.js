@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   startGame = setInterval(() => {
     showCoin();
-  }, 1000);
+  }, 850);
 });
 
 // shows coin
